@@ -2,7 +2,9 @@
 
 An in-game AI chat assistant for Guild Wars 2, as a [Nexus](https://raidcore.gg/Nexus) addon, powered by Google Gemini.
 
-Ask about NPCs and locations, crafting recipes, Trading Post prices, waypoints, builds and general game questions. It answers from the GW2 Wiki, community guides, metabattle builds and the GW2 API, and marks the places it finds on the map.
+Ask about NPCs and locations, crafting recipes, Trading Post prices, waypoints, builds and general game questions. It answers from the GW2 Wiki, community guides, metabattle builds and the GW2 API.
+
+Its marker search, beside the chat window, finds NPCs and places, achievements and marker-pack categories; [Claymore Law Pathing](https://github.com/FScaley/GW2-CL-Pathing-Releases) (v0.7.0 or newer) shows them in the game and on the world map, and can lead you through them step by step.
 
 ## Installation
 
