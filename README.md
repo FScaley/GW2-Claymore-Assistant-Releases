@@ -8,7 +8,8 @@ Press **ALT+N** (or right-click the Claymore icon) to open it. With your GW2 API
 
 - **Next:** the top three steps, with the time they take, where they are, Find on Map, Show (the markers of your packs, with [Claymore Law Pathing](https://github.com/FScaley/GW2-CL-Pathing-Releases)) and the wiki page; snooze, hide or mark a step done. What is locked or could not be checked says why.
 - **Gear:** what is off with the equipment of the character you play - empty slots, low-level or low-rarity items, empty rune / sigil / infusion slots, a weapon whose skills are greyed out - as problems, warnings and advice.
-- **Goals:** the goals closest to you (legendaries, all mounts, a region's mastery points...) and up to three you track.
+- **Today:** your Wizard's Vault progress, the timegated crafts not made today and this week's raid wings (Emboldened, Call of the Mists). Event cards say when the event starts, with [Claymore Law Event Timer](https://github.com/FScaley/GW2-CLE-Timer-Releases) installed.
+- **Goals:** the goals closest to you (legendaries, all mounts, a region's mastery points - with the ones still missing...) and up to three you track.
 - **Roadmap:** everything, searchable. **Settings:** what you like, the content the API cannot see that you own.
 
 Your account is read only while the window is open (the GW2 API can be 5-60 minutes behind the game). The key needs the permissions account, progression, characters, unlocks, inventories, wallet, builds and pvp.
