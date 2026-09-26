@@ -1,6 +1,6 @@
 # Third-party notices
 
-Claymore Law Assistant (`claymore-assistant.dll`) contains code from the following projects. Each is used under the MIT License; the full license text follows the list.
+Claymore Law Assistant (`claymore-assistant.dll`) contains code from the following projects. Each is used under the MIT License, unless the table says otherwise; the full license text follows the list.
 
 | Component | Where | Copyright |
 |---|---|---|
@@ -10,6 +10,7 @@ Claymore Law Assistant (`claymore-assistant.dll`) contains code from the followi
 | Nexus API header | `src/nexus/Nexus.h` | Copyright (c) Raidcore.GG |
 | MumbleLink header (Nexus addon template) | `src/mumble/Mumble.h` | Copyright (c) 2023 Raidcore.GG |
 | DirectXMath (Windows SDK) | used by `src/map/MapMath.cpp` | Copyright (c) Microsoft Corporation |
+| `days_from_civil`, `civil_from_days` (chrono-Compatible Low-Level Date Algorithms) | `src/core/NextSteps.cpp` (`ParseTime`), `src/core/NextStepsState.cpp` (`FormatTime`); in the DLL from Next Steps NS-3 | Howard Hinnant, donated to the public domain |
 
 ## MIT License
 
