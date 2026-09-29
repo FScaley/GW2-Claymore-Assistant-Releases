@@ -6,6 +6,7 @@ Claymore Law Assistant (`claymore-assistant.dll`) contains code from the followi
 |---|---|---|
 | Dear ImGui 1.80 | `src/imgui/` | Copyright (c) 2014-2021 Omar Cornut |
 | stb_truetype, stb_textedit, stb_rect_pack (bundled with Dear ImGui) | `src/imgui/imstb_*.h` | Copyright (c) 2017 Sean Barrett (MIT, or public domain at the user's choice) |
+| stb_image 2.30 (the UI kit's PNGs) | `src/vendor/stb/stb_image.h` | Copyright (c) 2017 Sean Barrett (MIT, or public domain at the user's choice) |
 | JSON for Modern C++ (nlohmann/json) | `include/json.hpp` | Copyright (c) 2013-2023 Niels Lohmann |
 | Nexus API header | `src/nexus/Nexus.h` | Copyright (c) Raidcore.GG |
 | MumbleLink header (Nexus addon template) | `src/mumble/Mumble.h` | Copyright (c) 2023 Raidcore.GG |
